@@ -3,7 +3,7 @@ title: "Spatial Analysis"
 subtitle: "A Short Introduction"
 author: "Semuhi Sinanoglu"
 institute: "University of Toronto"
-date: "`r Sys.Date()`"
+date: "March 2021"
 output:
   xaringan::moon_reader:
     css: ["xaringan-themer.css"]
